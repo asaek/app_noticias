@@ -1,0 +1,2 @@
+export 'package:news_api/data/repositories_impl/noticias_nuevas_repository_impl/noticias_nuevas_repository_impl.dart';
+export 'package:news_api/data/repositories_impl/search_noticias_repository_impl/search_noticias_repository_impl.dart';

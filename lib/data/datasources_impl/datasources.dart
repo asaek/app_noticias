@@ -1,0 +1,2 @@
+export 'package:news_api/data/datasources_impl/noticias_datasource_impl/noticias_datasource_impl.dart';
+export 'package:news_api/data/datasources_impl/search_noticias_datasorce_imp/search_noticias_datasource_impl.dart';
